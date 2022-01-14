@@ -71,4 +71,12 @@ There are an order of operations to be talked about im assuming next.
 
 //////////
 
+Section 15 - Operator PRecedence
+
+Basically order of operations, what will get executed first,second, etc. 
+
+*MDN Reference for operator order*
+-Right to Left vs Left to Right operators
+
+
 
